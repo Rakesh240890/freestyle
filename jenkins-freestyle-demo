@@ -5,7 +5,7 @@ echo "Welcome to Jenkins GitHub Practical"
 
 echo "Code downloaded from GitHub successfully"
 
-echo "Current User:"
+echo "Current User: int331"
 whoami
 
 echo "Jenkins Node:"
